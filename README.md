@@ -132,6 +132,7 @@ A robust, menu-driven terminal network scanner designed for system administrator
 ## 👤 Author
 
 - **Ujjwal Singh**
+- email - ujjwalshield@gmail.com
 - Cybersecurity student  
 - https://tryhackme.com/p/UJz
 

@@ -1,8 +1,11 @@
 # 🛡️ Interactive Network Security Scanner
 
+![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
+
 ## 🚀 Overview
 
 A robust, menu-driven terminal network scanner designed for system administrators, cybersecurity learners, and penetration testers. Features automatic local IP detection, threaded scanning, vulnerability insights, and a clean UI—all in an interactive Python package.  
+
 **Author:** Ujjwal Singh
 
 ---
@@ -129,9 +132,8 @@ A robust, menu-driven terminal network scanner designed for system administrator
 ## 👤 Author
 
 - **Ujjwal Singh**
-- Cybersecurity student 
-- [Your LinkedIn if you want]  
-- [Your portfolio if needed]
+- Cybersecurity student  
+- https://tryhackme.com/p/UJz
 
 ---
 
@@ -145,3 +147,7 @@ network-scanner/
 └── Screenshots                  # Demo images
 ```
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software with proper attribution.

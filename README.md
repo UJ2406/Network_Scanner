@@ -142,9 +142,10 @@ A robust, menu-driven terminal network scanner designed for system administrator
 ```
 network-scanner/
 ├── nsc.py                       # Main Scanner Script
-├── scan_report_*.json           # Automated scan reports (generated)
+├── demo_scan_report.json        # Scan report of hackthesite
 ├── README.md                    # This file
 └── Screenshots                  # Demo images
+└── LICENSE                      # MIT License
 ```
 
 ## 📜 License

@@ -74,8 +74,8 @@ A robust, menu-driven terminal network scanner designed for system administrator
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║ 🛡️ NETWORK SECURITY SCANNER 🛡️ ║
-║ Professional Security Assessment Tool ║
+║ 🛡️ NETWORK SECURITY SCANNER 🛡️                              ║
+║ Professional Security Assessment Tool                        ║
 ╚══════════════════════════════════════════════════════════════╝
 
 🔍 Quick Scan (Ports 1-1024)​
